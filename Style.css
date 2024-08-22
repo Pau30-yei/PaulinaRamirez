@@ -1,0 +1,32 @@
+h1
+{
+    font-family: sans-serif;
+    color:blue;
+}
+
+/**/
+.subtitulo
+{
+    font-family: Century Ghotic;
+    font-size: 22;
+    border-bottom: 3px rgb(5, 90, 139) solid;
+    color:black;
+    background-color: gray;
+}
+
+#definicionS
+{
+    font-family: 'Franklin Gothic Medium';
+    font-size:15;
+    color:rgb(18, 18, 19);
+}
+
+.Btn1
+{
+    border-radius: 10px;
+    width: auto;
+    height: 50px;
+    color: rgb(222, 236, 236);
+    background-color: rgb(24, 5, 109);
+    box-shadow: 10px 10px 8px #0986c0;
+}
